@@ -12,6 +12,6 @@ Now open the browser and go to `localhost:3000`.
 - players creating a Room for a game
 - player joining the available room to play
 - Game outcomes:
--- One player has won the game, other player has lost
--- One player has disconnected from the room
--- Draw
+    - One player has won the game, other player has lost
+    - One player has disconnected from the room
+    - Draw
